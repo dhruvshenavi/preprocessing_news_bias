@@ -3,9 +3,16 @@ __pycache__/
 *.pyc
 *.pyo
 
+__pycache__/
+.env
+*.pyc
+
+
 # Virtual environment
 venv/
 .env
+my-project/
+
 
 # OS / IDE
 .vscode/
